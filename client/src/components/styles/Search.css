@@ -1,0 +1,28 @@
+.styleHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    border: 2px solid white;
+    margin: 2% 15% 0 15%;
+    font-family: 'McLaren', cursive;
+    color: white;
+    background-color: black;
+}
+
+.styleInput {
+    font-size: 30px;
+    width: 75%;
+    outline: none;
+}
+
+.styleButton {
+    display: flex;
+    justify-content: center;
+}
+
+.buttonPosition {
+    margin-left: 10px;
+}

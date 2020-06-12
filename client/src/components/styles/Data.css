@@ -1,0 +1,23 @@
+.styleData {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    align-items: center;
+    text-align: center;
+    font-family: 'McLaren', cursive;
+    color: white;
+    background-color: black;
+}
+
+.styleAlbum {
+    border: 1px solid white;
+    max-width: 100%;
+    height: auto;
+}
+
+.styleAlbum:hover {
+    opacity: 0.8;
+}
+
+.positionData {
+    margin-top: 50px;
+}
